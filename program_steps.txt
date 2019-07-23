@@ -1,0 +1,6 @@
+1. Identify all unclicked blocks, and store locations in a list.
+2. Click randomly until space appears
+3. Identify all number blocks, and store locations in individual lists.
+4. For each number block, count all adjacent unclicked blocks.
+5. If the number of adjacent unclicked blocks is equal to the number of the block, flag all adjacent unclicked blocks.
+6. If the number of adjacent unflagged blocks is equal to the blocks number, clear all adjacent unclicked blocks.
